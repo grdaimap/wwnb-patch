@@ -32,7 +32,7 @@
 ### **公素来源链接及mod下载在最后**
 
 
-## 项目原地址：
+#### 项目原地址：
 
 https://gitee.com/grdaimap/wwnb
 
@@ -347,7 +347,7 @@ V3火箭车|射程无限远
 
 ## 更新补丁下载：
 
-链接：https://github.com/grdaimap/wwnb-patch/repository/archive/master.zip
+链接：https://codeload.github.com/grdaimap/wwnb-patch/zip/master
 
 补丁包（改参数改图标修问题）
 
