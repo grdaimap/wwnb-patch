@@ -11,7 +11,7 @@
 
 2019.4.4 修复星灵水晶兵的bug，给星灵加上油里心灵科技，启用largefire（并没有什么用）
 
-
+2019.4.7 补上素材说明，提升太阳轰炸，空降仓显示时间，星灵船开火坐标修改，提高突突突攻击力，修复冰激凌车可能的bug
 
 
 
@@ -278,6 +278,8 @@ V3火箭车|射程无限远
 [酥军的磁力小飞机 @ Quiet ](https://ppmforums.com/viewtopic.php?t=38695)
 
 [突突突-三轮 @ cxtian39](https://ppmforums.com/viewtopic.php?t=43985)
+
+[星灵水晶兵 @ cxtian39](https://ppmforums.com/viewtopic.php?t=45420)
 
 [毒气悬浮机 @ Agent Z ](https://ppmforums.com/viewtopic.php?t=40667)
 > 特殊说明：Use only when credited. Made by Agent Z.
