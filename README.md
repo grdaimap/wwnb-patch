@@ -335,7 +335,7 @@ V3火箭车|射程无限远
 [黑风暴原理-大头教程-@ 艾木魁](https://www.bilibili.com/video/av29286614?from=search&seid=8554601692130722047)
 
 
-[图标教程和背景图](https://tieba.baidu.com/p/4525730217)
+[图标教程和背景图 @ 鹰肉丸子](https://tieba.baidu.com/p/4525730217)
 
 
 -------------------
