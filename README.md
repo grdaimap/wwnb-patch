@@ -347,7 +347,13 @@ V3火箭车|射程无限远
 
 提取码：你来晚了
 
-转到 https://gitee.com/grdaimap/wwnb
+### 补档
+
+链接：https://pan.baidu.com/s/1WA1_TfvWDHiIBGwFKj46zw 
+
+提取码：kvw1 
+
+或转到 https://gitee.com/grdaimap/wwnb
 
 ## 更新补丁下载：
 
