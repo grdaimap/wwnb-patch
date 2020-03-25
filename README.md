@@ -343,9 +343,11 @@ V3火箭车|射程无限远
 
 ## 初始版本下载：
 
-链接：https://pan.baidu.com/s/159eK-bAdhqXjvyhdbHWwrg 
+<del>链接：https://pan.baidu.com/s/159eK-bAdhqXjvyhdbHWwrg </del>
 
-提取码：c358 
+提取码：你来晚了
+
+转到 https://gitee.com/grdaimap/wwnb
 
 ## 更新补丁下载：
 
